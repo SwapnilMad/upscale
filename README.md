@@ -15,6 +15,7 @@ Image Super resolution using Generative Adversial Network
 </tr>
 </tbody>
 </table>
+
 ## Getting Started
 Clone or download the project to your system
 
