@@ -1,5 +1,5 @@
 # Upscale
-Image Super resolution using Generative Adversial Network
+Image Super resolution using Generative Adversial Network, upscales the image by 2x with an average noted ssim = 0.91
 
 <table>
 <thead></thead>
